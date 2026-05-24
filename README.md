@@ -23,7 +23,13 @@ Each lab includes a **C++ implementation** of the numerical method and a short *
 
 ## Technologies
 
-`C++` `Numerical Methods` `Computational Physics`
+`C++` `OpenBLAS` `LAPACK` `Numerical Methods` `Computational Physics`
+
+## OpenBLAS / LAPACK
+
+Some labs use **OpenBLAS** and **LAPACK** for matrix operations and solving linear algebra problems, such as systems of equations, eigenvalue problems, and matrix diagonalization.
+
+These libraries provide efficient numerical routines which are useful in computational physics tasks.
 
 ## Structure
 
